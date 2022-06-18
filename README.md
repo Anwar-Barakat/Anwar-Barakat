@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anwar-barakat" alt="anwar-barakat" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://anwar-barakat.github.io/My-Personal-Portfolio/](https://anwar-barakat.github.io/My-Personal-Portfolio/)
+- 👨‍💻 All of my projects are available at [My Personal Portfolio](https://anwar-barakat.github.io/My-Personal-Portfolio/)
 
-- 📫 How to reach me **https://www.linkedin.com/in/anwar-barakat-0b9924227/**
+- 📫 How to reach me ? [Linkedin U+2728](https://www.linkedin.com/in/anwar-barakat-0b9924227/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
