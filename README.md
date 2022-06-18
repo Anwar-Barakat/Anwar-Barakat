@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=21&duration=3000&color=F70F86&height=150&lines=Hi+%F0%9F%91%8B%2C+I'm+Anwar-Barakat;A+full+stack+%26+laravel+developer+from+Syria)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&lines=Hi%2C%F0%9F%91%8B+I+Am+Anwar+Barakat;A+Full+Stack+%26+Laravel+Developer+;From+Syria)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anwar-barakat&label=Profile%20views&color=0e75b6&style=flat" alt="anwar-barakat" /> </p>
 
@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://anwar-barakat.github.io/My-Personal-Portfolio/](https://anwar-barakat.github.io/My-Personal-Portfolio/)
 
-- 📫 How to reach me **brkatanawr0@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/anwar-barakat-0b9924227/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
