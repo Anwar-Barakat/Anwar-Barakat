@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anwar-Barakat</h1>
-<h3 align="center">A full stack & laravel developer from Syria</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=F70F86&center=true&vCenter=true&multiline=true&height=150&lines=Hi+%F0%9F%91%8B%2C+I'm+Anwar-Barakat;A+full+stack+%26+laravel+developer+from+Syria)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anwar-barakat&label=Profile%20views&color=0e75b6&style=flat" alt="anwar-barakat" /> </p>
 
