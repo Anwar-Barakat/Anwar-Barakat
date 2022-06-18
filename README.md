@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [My Personal Portfolio](https://anwar-barakat.github.io/My-Personal-Portfolio/)
 
-- 📫 How to reach me ? [Linkedin U+2728](https://www.linkedin.com/in/anwar-barakat-0b9924227/)
+- 📫 How to reach me ? [Linkedin](https://www.linkedin.com/in/anwar-barakat-0b9924227/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
