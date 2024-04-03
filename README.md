@@ -49,7 +49,6 @@
 </p>
 <p>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anwar-Barakat&theme=monokai">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anwar-Barakat&theme=monokai">
 </p>
 <p>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anwar-Barakat&theme=monokai">
