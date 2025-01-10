@@ -4,12 +4,12 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&lines=Hi%2C%F0%9F%91%8B+I+Am+Anwar+Barakat;A+Full+Stack+%26+Laravel+Developer+;)](https://git.io/typing-svg)
 
   <img src="https://komarev.com/ghpvc/?username=anwar-barakat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+
+  <hr style="width: 50%; margin: 20px auto;">
 </div>
 
-<!-- ==================== ABOUT ME ==================== -->
 <div align="center">
   <h2>👨‍💻 About Me</h2>
-  <hr style="width: 50%; margin: 20px auto;">
 </div>
 
 - 💻 Full Stack Developer based in Dubai, UAE
@@ -19,7 +19,6 @@
 - 📫 Open to new opportunities and collaborations
 - 🌐 Portfolio: [View My Work](https://anwar-barakat.github.io/My-Personal-Portfolio/)
 
-<!-- ==================== TECH STACK ==================== -->
 <div align="center">
   <h2>🛠️ Tech Stack</h2>
   <hr style="width: 50%; margin: 20px auto;">
@@ -32,6 +31,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
+<a href="https://ui.shadcn.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="shadcn/ui" width="40" height="40"/></a>
 </p>
 
 <h3>UI Frameworks & Styling</h3>
@@ -40,6 +40,7 @@
 <a href="https://vuetifyjs.com/" target="_blank"><img src="https://bestofjs.org/logos/vuetify.svg" alt="Vuetify" width="40" height="40"/></a>
 <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
 <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/></a>
+<a href="https://www.syncfusion.com/" target="_blank"><img src="https://cdn.syncfusion.com/content/images/company-logos/Syncfusion_Logo_Image.png" alt="Syncfusion" width="40" height="40"/></a>
 </p>
 
 <h3>Backend & Database</h3>
@@ -49,14 +50,17 @@
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
 </p>
 
-<h3>Development Tools</h3>
+<h3>AI & Development Tools</h3>
 <p align="center">
+<a href="https://openai.com/chatgpt" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="40" height="40"/></a>
+<a href="https://www.anthropic.com/claude" target="_blank"><img src="https://www.anthropic.com/favicon.ico" alt="Claude AI" width="40" height="40"/></a>
+<a href="https://cursor.sh/" target="_blank"><img src="https://cursor.sh/apple-touch-icon.png" alt="Cursor AI" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
 <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="40" height="40"/></a>
+<a href="https://developers.google.com/maps" target="_blank"><img src="https://developers.google.com/static/maps/images/maps-icon.svg" alt="Google Maps API" width="40" height="40"/></a>
 </p>
 
-<!-- ==================== GITHUB ANALYTICS ==================== -->
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
   <hr style="width: 50%; margin: 20px auto;">
@@ -91,7 +95,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwar-Barakat&layout=compact&theme=monokai&hide=html&hide_border=true" width="49%" alt="Top Languages"/>
 </div>
 
-<!-- ==================== CONNECT ==================== -->
 <div align="center">
   <h2>🤝 Let's Connect</h2>
   <hr style="width: 50%; margin: 20px auto;">
