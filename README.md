@@ -1,41 +1,37 @@
-[<div align="center">
-  <h1>👋 Welcome to My Digital Space</h1>
+<div align="center">
+  <h1>👋 Hi, I'm Anwar Barakat</h1>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&lines=Hi%2C%F0%9F%91%8B+I+Am+Anwar+Barakat;A+Full+Stack+%26+Laravel+Developer+;)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&lines=Full+Stack+Developer;Laravel+%7C+React+%7C+TypeScript)](https://git.io/typing-svg)
 
   <img src="https://komarev.com/ghpvc/?username=anwar-barakat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-
-  <hr style="width: 50%; margin: 20px auto;">
 </div>
 
-<div align="center">
-  <h2>👨‍💻 About Me</h2>
-</div>
+## 💼 About Me
 
-- 💻 Full Stack Developer based in Dubai, UAE
-- 🔧 Specializing in Laravel, Vue.js, and React.js
-- 💼 2 years of professional development experience
-- 🌱 Continuously learning and growing in web development
-- 📫 Open to new opportunities and collaborations
-- 🌐 Portfolio: [View My Work](https://anwar-barakat.github.io/My-Personal-Portfolio/)
+Full Stack Developer | Dubai, UAE | 3+ Years Experience
 
-<div align="center">
-  <h2>🛠️ Tech Stack</h2>
-  <hr style="width: 50%; margin: 20px auto;">
-</div>
+🔧 **Specializing in:** Laravel • React • TypeScript • Vue.js  
+🚀 **Focus:** Real-time Systems • Payment Integration • AI-Powered Apps  
+🌐 **Portfolio:** [anwar-barakat.github.io](https://anwar-barakat.github.io/My-Personal-Portfolio/)
 
-<h3>Frontend Development</h3>
+---
+
+## 🛠️ Tech Stack
+
+### Frontend Development
 <p align="center">
-<a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
+<a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/></a>
 <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/></a>
+<a href="https://inertiajs.com/" target="_blank"><img src="https://raw.githubusercontent.com/inertiajs/inertia/master/.github/LOGO.png" alt="Inertia.js" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
 <a href="https://ui.shadcn.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="shadcn/ui" width="40" height="40"/></a>
 </p>
 
-<h3>UI Frameworks & Styling</h3>
+### UI Frameworks & Styling
 <p align="center">
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
 <a href="https://vuetifyjs.com/" target="_blank"><img src="https://bestofjs.org/logos/vuetify.svg" alt="Vuetify" width="40" height="40"/></a>
@@ -44,20 +40,29 @@
 <a href="https://www.syncfusion.com/" target="_blank"><img src="https://cdn.syncfusion.com/content/images/company-logos/Syncfusion_Logo_Image.png" alt="Syncfusion" width="40" height="40"/></a>
 </p>
 
-<h3>State Management</h3>
+### State Management
 <p align="center">
 <a href="https://redux-toolkit.js.org/" target="_blank"><img src="https://redux-toolkit.js.org/img/redux.svg" alt="Redux Toolkit" width="40" height="40"/></a>
+<a href="https://zustand-demo.pmnd.rs/" target="_blank"><img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/bear.jpg" alt="Zustand" width="40" height="40"/></a>
 <a href="https://pinia.vuejs.org/" target="_blank"><img src="https://pinia.vuejs.org/logo.svg" alt="Pinia" width="40" height="40"/></a>
 </p>
 
-<h3>Backend & Database</h3>
+### Backend & Database
 <p align="center">
 <a href="https://laravel.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" width="40" height="40"/></a>
 <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
+<a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/></a>
 </p>
 
-<h3>AI & Development Tools</h3>
+### Real-time & Payments
+<p align="center">
+<a href="https://laravel.com/docs/reverb" target="_blank"><img src="https://laravel.com/img/logomark.min.svg" alt="Laravel Reverb" width="40" height="40"/></a>
+<a href="https://stripe.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" alt="Stripe" width="40" height="40"/></a>
+</p>
+
+### AI & Development Tools
 <p align="center">
 <a href="https://openai.com/chatgpt" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="40" height="40"/></a>
 <a href="https://www.anthropic.com/claude" target="_blank"><img src="https://www.anthropic.com/favicon.ico" alt="Claude AI" width="40" height="40"/></a>
@@ -68,46 +73,81 @@
 <a href="https://developers.google.com/maps" target="_blank"><img src="https://developers.google.com/static/maps/images/maps-icon.svg" alt="Google Maps API" width="40" height="40"/></a>
 </p>
 
-<div align="center">
-  <h2>📊 GitHub Analytics</h2>
-  <hr style="width: 50%; margin: 20px auto;">
-</div>
+### Testing
+<p align="center">
+<a href="https://phpunit.de/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpunit/phpunit-original.svg" alt="PHPUnit" width="40" height="40"/></a>
+<a href="https://pestphp.com/" target="_blank"><img src="https://pestphp.com/www/assets/logo.svg" alt="Pest" width="40" height="40"/></a>
+<a href="https://jestjs.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/></a>
+</p>
 
-<h3>🏆 GitHub Trophies</h3>
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anwar-barakat&theme=flat&column=7&margin-w=15&margin-h=15&no-frame=true&title_color=0366d6&icon_color=2188ff&text_color=24292e&bg_color=ffffff" alt="GitHub Trophies" />
 </p>
 
-<h3>📈 Contribution Overview</h3>
+### 📈 Contribution Overview
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anwar-Barakat&theme=monokai" alt="Profile Details" width="100%" />
 </p>
 
-<h3>💻 Language Distribution</h3>
+### 💻 Language Distribution
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anwar-Barakat&theme=monokai" width="32%" alt="Top Languages"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anwar-Barakat&theme=monokai" width="32%" alt="Most Used Languages"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anwar-Barakat&theme=monokai" width="32%" alt="Stats"/>
 </div>
 
-<h3>⏱️ Coding Activity</h3>
+### ⏱️ Coding Activity
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anwar-Barakat&theme=monokai&utcOffset=4" width="49%" alt="Productive Time"/>
   <img src="https://streak-stats.demolab.com?user=Anwar-Barakat&theme=monokai&hide_border=true" width="49%" alt="GitHub Streak"/>
 </div>
 
-<h3>📊 GitHub Statistics</h3>
+### 📊 GitHub Statistics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anwar-Barakat&show_icons=true&theme=monokai&hide_border=true" width="49%" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwar-Barakat&layout=compact&theme=monokai&hide=html&hide_border=true" width="49%" alt="Top Languages"/>
 </div>
 
-<div align="center">
-  <h2>🤝 Let's Connect</h2>
-  <hr style="width: 50%; margin: 20px auto;">
 </div>
 
-<p align="center">
-<a href="https://linkedin.com/in/anwar-barakat-dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anwar Barakat LinkedIn" height="30" width="40" /></a>
-</p>
-](url)
+---
+
+## 💼 Experience Highlights
+
+**Tripz** - Full Stack Developer | *Jan 2024 - Present*  
+School trip booking platform • Stripe payments • Real-time chat • RBAC
+
+**Ednet** - Full Stack Developer | *Jan - Apr 2025*  
+AI-powered e-learning • UAE MOE curriculum • Quiz generation • Analytics
+
+**Wa3i** - Laravel Developer | *Jan - Mar 2022*  
+Membership management • Automated workflows • Multi-role dashboards
+
+---
+
+## 🚀 Featured Projects
+
+**🛒 R-mark Store** | E-commerce with Laravel & Livewire  
+**💳 R-POS** | Point of Sales system with inventory management  
+**🏢 Client Sites** | Al Mawahib Group • SSI School • Al Mawahib School
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anwar-barakat-dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://anwar-barakat.github.io/My-Personal-Portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anwar-Barakat)
+
+**📫 (+971) 564614167 | Dubai, UAE**
+
+</div>
