@@ -12,7 +12,7 @@ Full Stack Developer | Dubai, UAE | 3+ Years Experience
 
 🔧 **Specializing in:** Laravel • React • TypeScript • Vue.js  
 🚀 **Focus:** Real-time Systems • Payment Integration • AI-Powered Apps  
-🌐 **Portfolio:** [anwar-barakat.github.io](https://anwar-barakat.github.io/My-Personal-Portfolio/)
+🌐 **Portfolio:** [anwar-barakat.com](https://anwar-porfolio-sepia.vercel.app/)
 
 ---
 
